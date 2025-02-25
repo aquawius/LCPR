@@ -1,0 +1,6 @@
+.lcpr_data/
+.vscode/
+leetcode/
+
+plugins.json
+rating.json
